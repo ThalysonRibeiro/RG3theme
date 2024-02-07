@@ -8,3 +8,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 - versão 0.0.1
+- versão 0.0.2
+- versão 0.0.3
+- versão 0.0.4

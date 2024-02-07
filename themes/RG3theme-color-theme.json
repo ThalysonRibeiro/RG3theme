@@ -185,8 +185,8 @@
 		"editorLineNumber.activeForeground": "#FF0073",
 		"editorLineNumber.dimmedForeground": "#FF0073",
 		"editorCursor.foreground": "#FF0073",
-		"editor.selectionBackground": "#7109b7b3", //seleção
-		"editor.inactiveSelectionBackground": "#FF0073", //cor seleção quando não estiver com a aba select
+		"editor.selectionBackground": "#7109b79e", //seleção
+		"editor.inactiveSelectionBackground": "#ff00737f", //cor seleção quando não estiver com a aba select
 		"editor.selectionHighlightBackground": "#ff00737f", //cor para opçoes de select
 		"editor.selectionHighlightBorder": "#000000", //borda da select das opçoes
 		"editor.wordHighlightBackground": "#cc00ff5d", //cor de select variaveis
@@ -198,7 +198,7 @@
 		"editor.findMatchBorder": "#ff000000",
 		"editor.findMatchHighlightBorder": "#ff000000",
 		"search.resultsInfoForeground": "#ffffff",
-		"editor.hoverHighlightBackground": "#FF0073",
+		"editor.hoverHighlightBackground": "#ff00737f",
 		"editor.lineHighlightBackground": "#7109b783",
 		//"editor.lineHighlightBorde"
 		// "editorWatermark.foreground"
