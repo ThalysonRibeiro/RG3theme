@@ -11,3 +11,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - versão 0.0.2
 - versão 0.0.3
 - versão 0.0.4
+- versão 0.0.5

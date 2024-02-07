@@ -2,7 +2,7 @@
   "name": "rg3theme",
   "displayName": "RG3theme",
   "description": "",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -28,12 +28,12 @@
         "path": "./themes/RG3theme-color-theme.json"
       },
       {
-        "label": "RG3theme",
+        "label": "RG3theme v2",
         "uiTheme": "vs-dark",
         "path": "./themes/rg3theme2-theme-color-theme.json"
       },
       {
-        "label": "RG3theme",
+        "label": "sakura",
         "uiTheme": "vs",
         "path": "./themes/sakura-theme-color-theme.json"
       }
