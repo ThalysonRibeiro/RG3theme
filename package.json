@@ -2,7 +2,7 @@
   "name": "rg3theme",
   "displayName": "RG3theme",
   "description": "",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.85.0"
   },
