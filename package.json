@@ -1,8 +1,8 @@
 {
   "name": "rg3theme",
   "displayName": "RG3theme",
-  "description": "",
-  "version": "0.0.6",
+  "description": "Tema para vscode, com 3 versões. RG3 Dark, RG3 v2 com cores mais claras e RG3 sakura tema light",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -23,17 +23,17 @@
   "contributes": {
     "themes": [
       {
-        "label": "RG3theme",
+        "label": "RG3 Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/RG3theme-color-theme.json"
       },
       {
-        "label": "RG3theme v2",
+        "label": "RG3 v2",
         "uiTheme": "vs-dark",
         "path": "./themes/rg3theme2-theme-color-theme.json"
       },
       {
-        "label": "sakura",
+        "label": "RG3 sakura",
         "uiTheme": "vs",
         "path": "./themes/sakura-theme-color-theme.json"
       }
