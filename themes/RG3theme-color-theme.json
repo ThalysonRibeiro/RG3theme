@@ -262,7 +262,7 @@
 		//fim Cores da barra de menu
 		//
 		//Cores da página de boas-vindas
-		"welcomePage.background": "#ff0000",
+		"welcomePage.background": "#131313",
 		"welcomePage.progress.background": "#FF0073",
 		"welcomePage.progress.foreground": "#7F13DE",
 		"welcomePage.tileBackground": "#202020",

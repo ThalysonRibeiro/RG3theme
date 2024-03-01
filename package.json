@@ -2,7 +2,7 @@
   "name": "rg3theme",
   "displayName": "RG3theme",
   "description": "Tema para vscode, com 3 versões. RG3 Dark, RG3 v2 com cores mais claras e RG3 sakura tema light",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "engines": {
     "vscode": "^1.85.0"
   },
