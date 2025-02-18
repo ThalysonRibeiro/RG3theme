@@ -2,7 +2,7 @@
   "name": "rg3theme",
   "displayName": "RG3theme",
   "description": "Tema para vscode, com 3 versões. RG3 Dark, RG3 v2 com cores mais claras e RG3 sakura tema light",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -12,7 +12,7 @@
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rafinha-G3/RG3theme"
+    "url": "https://github.com/ThalysonRibeiro/RG3theme"
   },
   "keywords": [
     "dark",
