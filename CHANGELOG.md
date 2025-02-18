@@ -38,3 +38,8 @@ correção.
     "welcomePage.background": "#131313"
     }
 ````
+- #### versão 0.1.0
+correção de layout
+
+- #### versão 0.1.1
+mudança de cores de sintaxe

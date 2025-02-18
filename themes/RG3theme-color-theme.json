@@ -271,7 +271,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#9908FA"
+				"foreground": "#b443ff"
 			}
 		},
 		{
@@ -292,7 +292,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#9908FA"
+				"foreground": "#b443ff"
 			}
 		},
 		{
@@ -585,7 +585,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#9908FA"
+				"foreground": "#b443ff"
 			}
 		},
 		{
@@ -594,7 +594,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#9908FA" //json
+				"foreground": "#b443ff" //json
 			}
 		},
 		{
@@ -603,7 +603,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#9908FA"
+				"foreground": "#b443ff"
 			}
 		},
 		{
