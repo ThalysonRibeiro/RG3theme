@@ -318,7 +318,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#86dfff"
+				"foreground": "#9286ff"
 			}
 		},
 		{
@@ -381,7 +381,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#ea9979"
+				"foreground": "#ca649c"
 			}
 		},
 		{
@@ -470,7 +470,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#9900ff"
+				"foreground": "#b443ff"
 			}
 		},
 		{
@@ -648,7 +648,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#9900ff"
 			}
 		},
 		{
@@ -676,7 +676,7 @@
 				"text.html.markdown markup.inline.raw.markdown"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#ea9292"
 			}
 		},
 		{
